@@ -1,0 +1,6 @@
+{
+  "name": "ResolveAI",
+  "description": "Enterprise customer support AI coaching console featuring a three-panel live cockpit, real-time coaching feed, RAG knowledge recommendations, manual mode testing, and transcript replay mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
