@@ -1,0 +1,2 @@
+# AI-Powered-Customer-Support-Assistant-with-Live-Response-Guidance
+Development of AI-Powered Customer Support Assistant with Live Response Guidance. A multi-agent AI system that assists customer support agents during real-time interactions through customer simulation, intent &amp; sentiment analysis, RAG-based knowledge recommendations, escalation risk detection, live response coaching and post-interaction evaluation.
